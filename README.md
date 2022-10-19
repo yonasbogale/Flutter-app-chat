@@ -9,7 +9,7 @@ Flutter app that takes chat message in json format and turns them into beatiful 
 
 ## Authors
 
-- [@babe-saleh-mahfoud](https://www.github.com/babe-saleh-mahfoud)
+- [@yonasbogale](https://www.github.com/yomnasbogale)
 
 
 ## Badges

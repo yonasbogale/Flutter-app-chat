@@ -1,4 +1,3 @@
-# Flutter-app-chat
 # Chat
 
 Flutter app that takes chat message in json format and turns them into beatiful chat history ui
@@ -10,7 +9,7 @@ Flutter app that takes chat message in json format and turns them into beatiful 
 
 ## Authors
 
-- [@yonasbogale](https://www.github.com/yonasbogale)
+- [@babe-saleh-mahfoud](https://www.github.com/babe-saleh-mahfoud)
 
 
 ## Badges
